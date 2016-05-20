@@ -6,3 +6,11 @@ D:\Projects\TestProjects\CurdOperation\CurdOperation\Ioc.Data\bin\Debug\Ioc.Core
 D:\Projects\TestProjects\CurdOperation\CurdOperation\Ioc.Data\obj\Debug\Ioc.Data.csprojResolveAssemblyReference.cache
 D:\Projects\TestProjects\CurdOperation\CurdOperation\Ioc.Data\obj\Debug\Ioc.Data.dll
 D:\Projects\TestProjects\CurdOperation\CurdOperation\Ioc.Data\obj\Debug\Ioc.Data.pdb
+D:\GitHub\IocNinject\Ioc.Data\bin\Debug\Ioc.Data.dll.config
+D:\GitHub\IocNinject\Ioc.Data\bin\Debug\Ioc.Data.dll
+D:\GitHub\IocNinject\Ioc.Data\bin\Debug\Ioc.Data.pdb
+D:\GitHub\IocNinject\Ioc.Data\bin\Debug\Ioc.Core.dll
+D:\GitHub\IocNinject\Ioc.Data\bin\Debug\Ioc.Core.pdb
+D:\GitHub\IocNinject\Ioc.Data\obj\Debug\Ioc.Data.csprojResolveAssemblyReference.cache
+D:\GitHub\IocNinject\Ioc.Data\obj\Debug\Ioc.Data.dll
+D:\GitHub\IocNinject\Ioc.Data\obj\Debug\Ioc.Data.pdb

@@ -8,3 +8,13 @@ D:\Projects\TestProjects\CurdOperation\CurdOperation\Ioc.Service\bin\Debug\Ioc.D
 D:\Projects\TestProjects\CurdOperation\CurdOperation\Ioc.Service\obj\Debug\Ioc.Service.csprojResolveAssemblyReference.cache
 D:\Projects\TestProjects\CurdOperation\CurdOperation\Ioc.Service\obj\Debug\Ioc.Service.dll
 D:\Projects\TestProjects\CurdOperation\CurdOperation\Ioc.Service\obj\Debug\Ioc.Service.pdb
+D:\GitHub\IocNinject\Ioc.Service\bin\Debug\Ioc.Service.dll
+D:\GitHub\IocNinject\Ioc.Service\bin\Debug\Ioc.Service.pdb
+D:\GitHub\IocNinject\Ioc.Service\bin\Debug\Ioc.Core.dll
+D:\GitHub\IocNinject\Ioc.Service\bin\Debug\Ioc.Data.dll
+D:\GitHub\IocNinject\Ioc.Service\bin\Debug\EntityFramework.dll
+D:\GitHub\IocNinject\Ioc.Service\bin\Debug\Ioc.Core.pdb
+D:\GitHub\IocNinject\Ioc.Service\bin\Debug\Ioc.Data.pdb
+D:\GitHub\IocNinject\Ioc.Service\obj\Debug\Ioc.Service.csprojResolveAssemblyReference.cache
+D:\GitHub\IocNinject\Ioc.Service\obj\Debug\Ioc.Service.dll
+D:\GitHub\IocNinject\Ioc.Service\obj\Debug\Ioc.Service.pdb
